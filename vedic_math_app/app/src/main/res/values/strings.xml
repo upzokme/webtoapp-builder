@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- اسم التطبيق العام -->
-    <string name="app_name">System 22</string>
+    <string name="app_name">LiveFootball</string>
 
     <!-- رسائل التحميل -->
-    <string name="loading">جاري تحميل التطبيق...</string>
-    <string name="error_loading">تعذر تحميل المحتوى</string>
-    <string name="no_internet">يرجى التحقق من اتصال الإنترنت</string>
+    <string name="loading">loading...</string>
+    <string name="error_loading">error..!</string>
+    <string name="no_internet">No internet connection..!</string>
 
     <!-- رسائل الخطأ -->
-    <string name="error_content_missing">لم يتم العثور على ملفات HTML</string>
+    <string name="error_content_missing">file not found..!</string>
     <string name="error_content_missing_desc">يرجى وضع ملفات HTML في مجلد assets/www/</string>
 
     <!-- رسائل النجاح -->
-    <string name="ready">التطبيق جاهز</string>
+    <string name="ready">Ready</string>
 </resources>
