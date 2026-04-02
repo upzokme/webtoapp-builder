@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.system22.protocol"
+    namespace = "com.livefootballmm.sg"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.system22.protocol"
+        applicationId = "com.livefootballmm.sg"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
